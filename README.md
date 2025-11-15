@@ -6,11 +6,11 @@ Jenkins is basically an open source automation tool , can also say as a CI/CD to
  
    ✔ Continuous Integration (CI)
    
-      Automatically building and testing code whenever developers push something.
+   Automatically building and testing code whenever developers push something.
       
    ✔ Continuous Delivery / Deployment (CD)
    
-      Automatically deploying code to servers, Docker, Kubernetes, cloud, etc.
+   Automatically deploying code to servers, Docker, Kubernetes, cloud, etc.
 
  ✅ 2. Why do we use Jenkins?
  
