@@ -2,7 +2,8 @@
 
 Jenkins is basically an open source automation tool , can also say as a CI/CD tool .
 
- ✅ 1.Mainly used for - 
+ ✅ 1.Mainly used for -
+ 
    ✔ Continuous Integration (CI)
       Automatically building and testing code whenever developers push something.
    ✔ Continuous Delivery / Deployment (CD)
