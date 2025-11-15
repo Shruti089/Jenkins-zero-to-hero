@@ -9,6 +9,7 @@ Jenkins is basically an open source automation tool , can also say as a CI/CD to
       Automatically deploying code to servers, Docker, Kubernetes, cloud, etc.
 
  ✅ 2. Why do we use Jenkins?
+ 
    ● Automation
      It eliminates manual steps like building, testing, and deploying.
 
